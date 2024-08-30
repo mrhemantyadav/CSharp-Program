@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Practice-Program-Csharp/ArraySum/ArraySum.csproj": {}
+    "/workspaces/Practice-Program-Csharp/01DefineSingleArray/01DefineSingleArray.csproj": {}
   },
   "projects": {
-    "/workspaces/Practice-Program-Csharp/ArraySum/ArraySum.csproj": {
+    "/workspaces/Practice-Program-Csharp/01DefineSingleArray/01DefineSingleArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Practice-Program-Csharp/ArraySum/ArraySum.csproj",
-        "projectName": "ArraySum",
-        "projectPath": "/workspaces/Practice-Program-Csharp/ArraySum/ArraySum.csproj",
+        "projectUniqueName": "/workspaces/Practice-Program-Csharp/01DefineSingleArray/01DefineSingleArray.csproj",
+        "projectName": "01DefineSingleArray",
+        "projectPath": "/workspaces/Practice-Program-Csharp/01DefineSingleArray/01DefineSingleArray.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Practice-Program-Csharp/ArraySum/obj/",
+        "outputPath": "/workspaces/Practice-Program-Csharp/01DefineSingleArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
